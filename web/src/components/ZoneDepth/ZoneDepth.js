@@ -1,8 +1,7 @@
 const ZoneDepth = () => {
   return (
-    <div>
-      <h2>{'ZoneDepth'}</h2>
-      <p>{'Find me in ./web/src/components/ZoneDepth/ZoneDepth.js'}</p>
+    <div className="w-1/2 p-3 mx-auto rounded text-white bg-red-600">
+      DEPTH ZONE
     </div>
   )
 }

@@ -1,8 +1,7 @@
 const Header = () => {
   return (
-    <div>
-      <h2>{'Header'}</h2>
-      <p>{'Find me in ./web/src/components/Header/Header.js'}</p>
+    <div className="block bg-purple-500 rounded text-white p-3">
+      <h1 className="text-3xl text-center">Reactisphere</h1>
     </div>
   )
 }
